@@ -3,28 +3,24 @@
 A responsive and animated HTML flyer for promoting the Nobel Internship Program. This web flyer is designed to engage users with clean visuals, smooth animations, and a strong call-to-action.
 
 ## ✨ Features
-
-- 🎨 Clean, modern layout
-- 🖼️ Animated flyer and logo
-- 🌍 Responsive design (mobile-friendly)
-- 💡 CSS animations on hover
-- 📌 Background image and Nobel logo support
-- 🔗 Clickable "Register Now" button that links to Nobel's official internship page
+  - 🎨 Clean, modern layout
+  - 🖼️ Animated flyer and logo
+  - 🌍 Responsive design (mobile-friendly)
+  - 💡 CSS animations on hover
+  - 📌 Background image and Nobel logo support
+  - 🔗 Clickable "Register Now" button that links to Nobel's official internship page
 
 ## 📸 Preview
-
 ![Preview Screenshot](preview.png)  
-*(Replace this with a real screenshot of your flyer)*
+
 
 ## 🚀 Demo
-
 👉 [Live Demo](https://mattialavai.github.io/Nobel-Internship-Flyer/)  
-*(Optional: deploy it with GitHub Pages or Netlify)*
+
 
 ## 🛠️ Built With
-
 - HTML5
 - CSS3 (No frameworks used)
 
-## 📁 Folder Structure
+
 
